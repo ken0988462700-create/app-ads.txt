@@ -1,1 +1,1 @@
-# app-ads.txt
+google.com, pub-你的ID, DIRECT, f08c47fec0942fa0
